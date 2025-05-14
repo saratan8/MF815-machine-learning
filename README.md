@@ -1,6 +1,6 @@
 # MF815-machine-learning
 
-# Mutual Fund Style Classification from Prospectus using NLP and CNN 🧠📊
+# Mutual Fund Style Classification from Prospectus using NLP and CNN 
 
 This project applies Natural Language Processing (NLP) and deep learning techniques to classify mutual funds into investment strategy categories using the textual summary from their prospectuses.
 
