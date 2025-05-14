@@ -50,7 +50,7 @@ We drop outliers (e.g., the single commodity fund) and split the remaining data 
 
 ---
 
-## 📊 Results & Discussion
+## Results & Discussion
 
 - Imbalanced data caused model to overfit to dominant classes
 - Future improvements may include:
